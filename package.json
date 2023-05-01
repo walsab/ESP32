@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "cors": "^2.8.5",
     "debug": "^4.3.4",
     "json-serve": "^0.1.0",
